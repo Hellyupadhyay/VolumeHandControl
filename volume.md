@@ -30,7 +30,7 @@ This project allows users to control their computer's volume by using hand gestu
 
 ## Team Details
 This project was created by 
-Vatsal Shah,Helly Upadhyay and Rajat Vanzara and [Teammate's Name] as a part of PSC innovative Assignment at Nirma 
+Vatsal Shah,Helly Upadhyay and Rajat Vanzara as a part of PSC innovative Assignment at Nirma 
 University.
 
 ## Dataset
